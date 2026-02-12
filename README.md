@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated B.Tech Computer Science student with a 79% academic record. Demonstrated technical versatility through a Cyber Security internship from Govt. Of India and an AI/ML Data Science internship at Softpro India. Proficient in Python, C#, and DART, with hands-on experience developing scalable sentiment analysis tools and AR gaming applications. Seeking to apply a strong foundation in Data Structures and Machine Learning to a dynamic engineering role.
+Motivated B.Tech Computer Science student with a 79% academic record. Demonstrated technical versatility through a Cyber Security internship from Govt. Of India and an AI/ML Data Science internship at Softpro India Pvt Ltd. Proficient in Python, C#, and DART, with hands-on experience developing scalable sentiment analysis tools and AR gaming applications. Seeking to apply a strong foundation in Data Structures and Machine Learning to a dynamic engineering role.
 
 
 ## 🌐 Socials:
